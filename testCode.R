@@ -1,6 +1,6 @@
 ##simple test
 a <- rnorm(100)
-plot (a)
+plot (a,c(-5,5))
 
 
 
